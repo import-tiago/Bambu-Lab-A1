@@ -2,7 +2,7 @@
 
 Compilation of settings, created and remixed 3D models, upgrades, useful information, and relevant concepts for my own use, needs, and future reference.
 
-<p align="left"><img src="Assets/machine.png" width="50%" height="50%" alt="Bambu Lab A1 3D Printer with AMS lite attached"></p>
+<p align="left"><img src="assets/machine.png" alt="Bambu Lab A1 3D Printer with AMS lite attached"></p>
 
 ## Machine Specs
 | Parameter | Value |
