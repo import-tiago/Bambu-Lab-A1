@@ -39,10 +39,16 @@ Custom 3D-printed covers designed to highlight or change the color of the spool 
 
 ![](assets/10.jpg)
 
+### Allen Key Handle
+Custom 3D-printed handle designed to improve the ergonomics and grip of the Bambu Lab A Series Allen keys. The design is **print-in-place** for immediate use.
+* **Model Link:** [Bambulab A Series Allen key (MakerWorld)](https://makerworld.com/en/models/1084171-bambulab-a-series-allen-key-print-in-place#profileId-1076617)
+
+![](assets/11.jpg)
+
 
 ---
 
-## Projects & Organizational Systems
+# Projects & Organizational Systems
 
 ### Multiboard
 A free-to-use wall-mounted storage system that uses slotted or perforated panels to hold interchangeable modules. It is **free** but **not open-source**. The design focuses on flexible vertical organization and rapid rearrangement.
@@ -53,10 +59,12 @@ A free-to-use wall-mounted storage system that uses slotted or perforated panels
 
 **My Build:**
 
-| ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
+| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
 |:---|:---|:---|
-| ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
-| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/9.jpg) |
+| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
+| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
+
+---
 
 ### Gridfinity
 A modular storage system based on a standardized 42×42 mm grid, ensuring compatibility between all modules. It is **free and open-source**. Optimized for dense organization of small items using stackable containers and inserts.
@@ -67,15 +75,15 @@ A modular storage system based on a standardized 42×42 mm grid, ensuring compat
 
 **My Build:**
 
-| ![](assets/11.jpg) | ![](assets/12.jpg) | ![](assets/13.jpg) |
+| ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
 |:---|:---|:---|
-| ![](assets/13.jpg) | ![](assets/14.jpg) | ![](assets/15.jpg) |
-| ![](assets/16.jpg) | ![](assets/17.jpg) | ![](assets/18.jpg) |
+| ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
+| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/9.jpg) |
 
 ---
 
-## My Original Models
+# My Original Models
 
 
-## My Remixed Models
+# My Remixed Models
 
