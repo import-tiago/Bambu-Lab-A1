@@ -49,6 +49,24 @@ Custom 3D-printed handle designed to improve the ergonomics and grip of the Bamb
 > This model features a **print pause**. During the pause, the Allen key must be inserted into the slot so it can be enclosed by the rest of the print.
 ![](assets/12.jpg)
 
+### Bambu Lab Toolbox
+Modular and compact toolbox specifically designed for the Bambu Lab A1 printer. The design is **print-in-place**, featuring integrated hinged drawers for storing parts and tools.
+* **Model Link:** [A1 Toolbox (MakerWorld)](https://makerworld.com/en/models/639173-a1-toolbox-print-in-place#profileId-860527)
+
+![](assets/13.jpg)
+
+### Bambu Lab Bed Scraper
+A redesigned, custom bed scraper available in two versions (flat or angled) to efficiently remove prints from the build plate while improving grip and handling.
+* **Model Link:** [Bambu Lab Bed Scraper (MakerWorld)](https://makerworld.com/en/models/914848-new-bambu-lab-bed-scraper-two-versions#profileId-876358)
+
+![](assets/14.jpg)
+
+### Toolhead PTFE Tubes Identifier
+Custom guide covers with numbering designed to clearly identify and organize the PTFE tubes and power cable connections on the A1 Series toolhead, improving visibility and maintenance.
+* **Model Link:** [Numbered PTFE & Power Cable Guide for A1 Series (MakerWorld)](https://makerworld.com/en/models/1686183-numbered-ptfe-power-cable-guide-for-a1-series#profileId-1786772)
+
+![](assets/14.jpg)
+
 ---
 
 # Projects & Organizational Systems
