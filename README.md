@@ -57,17 +57,23 @@ Modular and compact toolbox specifically designed for the Bambu Lab A1 printer. 
 
 ![](assets/13.jpg)
 
+### A1 Poop Bucket
+A waste bucket designed to be attached to the Bambu Lab A1 printer, featuring an additional slot for scraper storage. Helps keep the printing area clean and organized.
+* **Model Link:** [A1 Poop Bucket (MakerWorld)](https://makerworld.com/en/models/879014-a1-poop-bucket-with-scraper-holder#profileId-832688)
+
+![](assets/14.jpg)
+
 ### Bambu Lab Bed Scraper
 A redesigned, custom bed scraper available in two versions (flat or angled) to efficiently remove prints from the build plate while improving grip and handling.
 * **Model Link:** [Bambu Lab Bed Scraper (MakerWorld)](https://makerworld.com/en/models/914848-new-bambu-lab-bed-scraper-two-versions#profileId-876358)
 
-![](assets/14.jpg)
+![](assets/x.jpg)
 
 ### Toolhead PTFE Tubes Identifier
 Custom guide covers with numbering designed to clearly identify and organize the PTFE tubes and power cable connections on the A1 Series toolhead, improving visibility and maintenance.
 * **Model Link:** [Numbered PTFE & Power Cable Guide for A1 Series (MakerWorld)](https://makerworld.com/en/models/1686183-numbered-ptfe-power-cable-guide-for-a1-series#profileId-1786772)
 
-![](assets/14.jpg)
+![](assets/x.jpg)
 
 ---
 
