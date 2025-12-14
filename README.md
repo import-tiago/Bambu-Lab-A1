@@ -116,10 +116,7 @@ A free-to-use wall-mounted storage system that uses slotted or perforated panels
 
 **My Build:**
 
-| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
-|:---|:---|:---|
-| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
-| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
+![](assets/multiboard/1.jpg)
 
 ---
 
