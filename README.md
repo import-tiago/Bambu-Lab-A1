@@ -39,41 +39,53 @@ This document repo as a personal knowledge base and future reference for setting
 Custom 3D-printed covers designed to highlight or change the color of the spool slot numbers on the AMS lite for improved visibility and organization.
 * **Model Link:** [Enveloping AMS-lite Number Covers (MakerWorld)](https://makerworld.com/en/models/928502-enveloping-ams-lite-number-covers#profileId-892075)
 
-![](assets/10.jpg)
+![](assets/upgrades/1.jpg)
 
 ### Allen Key Handle
 Custom 3D-printed handle designed to improve the ergonomics and grip of the Bambu Lab A Series Allen keys. The design is **print-in-place** for immediate use.
 * **Model Link:** [Bambulab A Series Allen key (MakerWorld)](https://makerworld.com/en/models/1084171-bambulab-a-series-allen-key-print-in-place#profileId-1076617)
 
-![](assets/11.jpg)
+![](assets/upgrades/2.jpg)
 
 **NOTE**
 > This model features a **print pause**. During the pause, the Allen key must be inserted into the slot so it can be enclosed by the rest of the print.
-![](assets/12.jpg)
+![](assets/upgrades/3.jpg)
 
 ### Bambu Lab Toolbox
 Modular and compact toolbox specifically designed for the Bambu Lab A1 printer. The design is **print-in-place**, featuring integrated hinged drawers for storing parts and tools.
 * **Model Link:** [A1 Toolbox (MakerWorld)](https://makerworld.com/en/models/639173-a1-toolbox-print-in-place#profileId-860527)
 
-![](assets/13.jpg)
+![](assets/upgrades/4.jpg)
 
 ### A1 Waste Bucket
 A waste bucket designed to be attached to the Bambu Lab A1 printer, featuring an additional slot for scraper storage. Helps keep the printing area clean and organized.
 * **Model Link:** [A1 Poop Bucket (MakerWorld)](https://makerworld.com/en/models/879014-a1-poop-bucket-with-scraper-holder#profileId-832688)
 
-![](assets/14.jpg)
+![](assets/upgrades/5.jpg)
 
 ### Bambu Lab Bed Scraper
 A redesigned, custom bed scraper available in two versions (flat or angled) to efficiently remove prints from the build plate while improving grip and handling.
 * **Model Link:** [Bambu Lab Bed Scraper (MakerWorld)](https://makerworld.com/en/models/914848-new-bambu-lab-bed-scraper-two-versions#profileId-876358)
 
-![](assets/x.jpg)
+![](assets/upgrades/6.jpg)
 
 ### Toolhead PTFE Tubes Identifier
 Custom guide covers with numbering designed to clearly identify and organize the PTFE tubes and power cable connections on the A1 Series toolhead, improving visibility and maintenance.
 * **Model Link:** [Numbered PTFE & Power Cable Guide for A1 Series (MakerWorld)](https://makerworld.com/en/models/1686183-numbered-ptfe-power-cable-guide-for-a1-series#profileId-1786772)
 
-![](assets/x.jpg)
+![](assets/upgrades/7.jpg)
+
+### PTFE Tube Removal Tool
+Tool specifically designed to simplify the process of removing PTFE tubes from the AMS on the A1 and A1 mini printers, minimizing hassle and potential damage.
+* **Model Link:** [PTFE Tube Removal Tool for AMS A1 and A1 mini (MakerWorld)](https://makerworld.com/en/models/684171-ptfe-tube-removal-tool-for-ams-a1-and-a1-mini#profileId-612835)
+
+![](assets/upgrades/8.jpg)
+
+### A1 Side Cable Guide
+A custom guide designed to manage and secure the cables on the side of the A1 printer, helping to prevent snagging and wear, and keeping the printer's appearance clean.
+* **Model Link:** [A1 Cable Guide (MakerWorld)](https://makerworld.com/en/models/533092-a1-cable-guide#profileId-449944)
+
+![](assets/upgrades/9.jpg)
 
 ---
 
@@ -88,10 +100,10 @@ A modular storage system based on a standardized 42×42 mm grid, ensuring compat
 
 **My Build:**
 
-| ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
+| ![](assets/gridfinity/1.jpg) | ![](assets/gridfinity/2.jpg) | ![](assets/gridfinity/3.jpg) |
 |:---|:---|:---|
-| ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
-| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/9.jpg) |
+| ![](assets/gridfinity/4.jpg) | ![](assets/gridfinity/5.jpg) | ![](assets/gridfinity/6.jpg) |
+| ![](assets/gridfinity/7.jpg) | ![](assets/gridfinity/8.jpg) | ![](assets/gridfinity/9.jpg) |
 
 ---
 
