@@ -87,7 +87,7 @@ Tool specifically designed to simplify the process of removing PTFE tubes from t
 A custom guide designed to manage and secure the cables on the side of the A1 printer, helping to prevent snagging and wear, and keeping the printer's appearance clean.
 * **Model Link:** [A1 Cable Guide (MakerWorld)](https://makerworld.com/en/models/533092-a1-cable-guide#profileId-449944)
 
-![](assets/upgrades/9.jpg)
+![](assets/upgrades/9.png)
 
 ---
 
