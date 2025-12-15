@@ -155,10 +155,7 @@ A free-to-use wall-mounted storage system that uses slotted or perforated panels
 
 ![](assets/multiboard/1.jpg)
 
+
+### :small_blue_diamond: Filament Shelf
+
 ---
-
-# My Original Models
-
-
-# My Remixed Models
-
